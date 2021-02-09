@@ -6,8 +6,7 @@ yang dibuat terlihat rapih dan nyaman untuk dilihat oleh pengguna.
 # RelativeLayout
 
 Relative Layout adalah layout yang paling mudah kita terapkan, posisi dari masing-masing komponennya saling terkait dengan komponen lainnya. 
-Tata letak komponenya dalam desain tampilan pada aplikasi, bersifat lebih bebas (Relative) sehingga bisa di tata di mana saja. Penataannya bisa di sisi kanan, kiri, atas, maupun bawah dari komponen/objek lain.
-Selain itu penataannya bisa bertumpukan antara komponen/objek satu dengan yang lainnya.
+Tata letak komponenya dalam desain tampilan pada aplikasi, bersifat lebih bebas (Relative) sehingga bisa di tata di mana saja. Penataannya bisa di sisi kanan, kiri, atas, maupun bawah dari komponen/objek lain.Selain itu penataannya bisa bertumpukan antara komponen/objek satu dengan yang lainnya. [ Baca Selengkapnya...](https://developer.android.com/guide/topics/ui/layout/relative?hl=id)
 
 # Penerapan Relative Layout
 Contoh penerapan relative layout yaitu pada penempatan komponen/objek yang saling terkait atau berhubungan dengan objek/komponen lainnya.
